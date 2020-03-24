@@ -1,0 +1,6 @@
+requests
+nose
+timeloop
+wheel
+pymongo
+python-telegram-bot
