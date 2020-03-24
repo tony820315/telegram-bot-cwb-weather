@@ -10,6 +10,6 @@ This project is a easy example for python beginner.  I've used the Telegram API 
 - pipenv run python3 main.py
 
 ### Demo
-![](https://i.imgur.com/lZ6y4hP.png =300*300)
+![](https://i.imgur.com/lZ6y4hP.png)
 
 
