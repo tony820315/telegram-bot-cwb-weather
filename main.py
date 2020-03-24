@@ -74,7 +74,7 @@ def get_recent_weather(location, timestamp):
         result += '{}{}\n '.format(location, '💭')
         for rows in list(myresult):
             result += '{} : {} ~ {} \n '.format(Environmental_factors[0], datetime.fromtimestamp(rows[0] -43200) , datetime.fromtimestamp(rows[0]))
-            result += '{} : {}, '.format(Environmental_factors[2], PREDICT_CODE_MAP[rows[2]])
+            # result += '{} : {}, '.format(Environmental_factors[2], PREDICT_CODE_MAP[rows[2]])
             result += '{} : {} ~ {}, '.format(Environmental_factors[3], rows[4], rows[3])
             result += '{} : {}%, '.format(Environmental_factors[4], rows[5])
             result += '{} : {}\n '.format(Environmental_factors[5], rows[6])
