@@ -1,5 +1,5 @@
 # telegram-bot-cwb-weather
-This project is a easy example for python beginner.  I've used the Telegram API to get a [basic bot](https://github.com/python-telegram-bot/python-telegram-bot). Otherwise  use timeloop to regular request the [taiwan cwb weather data](https://opendata.cwb.gov.tw/dist/opendata-swagger.html). Hope it will help you :))
+This project is an easy example for python beginners. I use the Telegram API to get a [basic bot](https://github.com/python-telegram-bot/python-telegram-bot). Besides, I also use "Timeloop" to regularly request the [taiwan cwb weather data](https://opendata.cwb.gov.tw/dist/opendata-swagger.html). Hope it will help you :))
 
 ### How to get start
 
